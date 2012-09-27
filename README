@@ -12,6 +12,12 @@ Start the server. You should see the log message:
 
 [Chatbot] Enabling Chatbot v1.0
 
+USING
+=====
+Just post a chat message to start having conversation with the chatbot.
+
+Every player can have his/her own conversation thread.
+
 Configuration
 =============
 After you have started the server, you will see the plugins/Chatbot/config.yml file.
