@@ -1,0 +1,21 @@
+Chatbot is a very simple Minecraft Bukkit plugin. It responds to every chat message. It can use
+any chatbot from the http://www.pandorabots.com/ web site. By default, it uses the
+Chomsky bot which is pretty good and knows Wikipedia well.
+
+It's fun for little kids to talk to a chatbot.
+
+INSTALLATION
+============
+Copy Chatbot.jar to the plugins/ folder of your Bukkit server.
+
+Start the server. You should see the log message:
+
+[Chatbot] Enabling Chatbot v1.0
+
+Configuration
+=============
+After you have started the server, you will see the plugins/Chatbot/config.yml file.
+Open the file and change the botid parameter to use another bot. For a list of bots,
+go to: http://www.pandorabots.com/botmaster/en/mostactive. Click a link to see the botid
+in the URL address.
+	

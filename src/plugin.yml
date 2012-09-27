@@ -1,0 +1,6 @@
+name: Chatbot
+main: com.mobiarch.chatbot.Plugin
+author: bibhas
+version: 1.0
+description: Have a chatbot answer all chats
+commands:
